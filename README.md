@@ -1,2 +1,2 @@
 # Knowledge
-this is a list of my knowledge
+This is a list of my knowledge
