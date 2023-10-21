@@ -18,3 +18,9 @@ SampleComponent.tsx
   <div className="col-span-1">4</div1>
 </div>
 
+gap-{n}
+n スペース分の余白を要素と要素の間にもたせるか。親要素に指定。
+普通に要素感の余白の大きさです。
+gap-[10px]みたいな使い方もできるはず(JIT モードなら)
+
+参照:https://zenn.dev/mayo_dev/articles/learn-grid-layout-with-tailwind
